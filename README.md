@@ -3,7 +3,7 @@
   🎓Computer Information System Student
 </h2>
 
-# I am oracle and Front-End "Developer".
+# I am data analyst, oracle and Front-End "Developer".
 
 🌱 I’m currently working on saving planet.<br/>
 🔭 I’m currently learning Javascript and oracle forms & reports.<br/>
