@@ -6,8 +6,8 @@
 # I am data analyst, oracle and Front-End "Developer".
 
 🌱 I’m currently working on saving planet.<br/>
-🔭 I’m currently learning Javascript and oracle forms & reports.<br/>
-💬 You can ask me about Python, OOP, Algorithm, Oracle, PL\SQL, SQL, Front-end and any problem(s) facing you on programming i am happy to help.<br/>
+🔭 I’m currently learning **`AI and Machine Learning`** and oracle forms & reports.<br/>
+💬 You can ask me about Python, OOP, Algorithm, Oracle, PL\SQL, SQL, Front-end and any problem(s) facing you on programming.Happy to help.<br/>
 📫 How to reach me: m7moud.office@gmail.com <br/>
 ⚡ Fun fact: Discovering, Adventure with lettle of care and ==> ⚽, 🏃‍, 🏊‍♂️, (🍕-🍔-🍟-🌭-🥞-🍤-etc..) and ✈.<br/>
 📍 Lives on 🌏 in jordan-Amman.<br/>
